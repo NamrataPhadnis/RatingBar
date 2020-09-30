@@ -11,7 +11,8 @@ import android.widget.RatingBar;
 import android.widget.TextView;
 import android.widget.Toast;
 import java.io.InputStream;
-
+import java.util.ArrayList;
+import java.util.HashMap;
 public class Activity_One extends AppCompatActivity {
     Button buttonNext1;
     ImageView imageViews1;
